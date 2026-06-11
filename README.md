@@ -1597,6 +1597,7 @@ Update Time, five active automations, webhooks.
   * [cron-job.org](https://cron-job.org) - Online cronjobs service. Unlimited jobs are free of charge.
   * [Cronhooks](https://cronhooks.io/) - Schedule on-time or recurring webhooks. The free plan allows 5 ad-hoc schedules.
   * [datelist.io](https://datelist.io) - Online booking / appointment scheduling system. Free up to 5 bookings per month, includes 1 calendar
+  * [Filuni](https://www.filuni.com) - 120+ free browser-based file and developer tools: PDF merge/split/compress/convert, image/video/audio converters, JSON formatter, JWT decoder, regex tester, cron parser and more. Completely free: no signup, no usage limits, no watermarks. Available in 11 languages.
   * [FOSSA](https://fossa.com/) - Scalable, end-to-end management for third-party code, license compliance and vulnerabilities.
   * [Hook Relay](https://www.hookrelay.dev/) - Add webhook support to your app without the hassles: done-for-you queueing, retries with backoff, and logging. The free plan has 100 deliveries per day, 14-day retention, and 3 hook endpoints.
   * [Hosting Checker](https://hostingchecker.co) - Check hosting information such as ASN, ISP, location and more for any domain, website or IP address. Also includes multiple hosting and DNS-related tools.
